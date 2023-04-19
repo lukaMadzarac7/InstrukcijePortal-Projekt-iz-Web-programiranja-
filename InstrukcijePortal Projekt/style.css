@@ -1,0 +1,71 @@
+#MainTitle {
+    text-align: center;
+    font-family: Lucida Console, Courier New, monospace;
+}
+
+#Podnaslov{
+    text-align:center; 
+    font-family: Lucida Console, Courier New, monospace;
+
+
+}
+
+
+#MainImage {
+
+    width: 100%; 
+    left: 0px; 
+    right: 0px; 
+    z-index: -1; 
+    height: 65%;
+}
+
+.videoInsert {
+    position: absolute; 
+    right: 0; 
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    width: auto; 
+    height: auto; 
+    z-index: -100;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.MIstretch {
+    width:100%;
+
+}
+
+#background {
+    width: 100%; 
+    height: 100%; 
+    position: fixed; 
+    left: 0px; 
+    top: 0px; 
+    z-index: -1; 
+}
+
+.BIstretch {
+    width:100%;
+    height:100%;
+}
+
+.allUslugeDiv{
+    border:1px solid black; 
+    padding:3%;
+
+
+}
+
+.geeks {
+    width:60%;
+    height:300px;
+}
+.imgMath {
+    width:100%;
+    height:100%;
+    object-fit:cover;
+}
+
